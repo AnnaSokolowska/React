@@ -1,0 +1,17 @@
+/*!*******************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!./node_modules/sass-loader/dist/cjs.js!./src/index.scss ***!
+  \*******************************************************************************************************************************************************************************/
+@font-face {
+  font-family: Nunito;
+  src: url(fonts/5e6235bebf7703aaa3a0.woff) format("woff2"), url(fonts/5e6235bebf7703aaa3a0.woff) format("woff");
+  font-weight: 700;
+}
+@font-face {
+  font-family: Nunito;
+  src: url(fonts/dd02c26f8215373b1ca6.woff2) format("woff2"), url(fonts/96882773c571b1ae509b.woff) format("woff");
+  font-weight: 300;
+}
+body {
+  background-color: tomato;
+  font-family: Nunito, sans-serif;
+}
